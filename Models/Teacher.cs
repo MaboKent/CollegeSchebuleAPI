@@ -19,4 +19,5 @@ namespace CollegeSchedule.Models
         [Column("position")]
         [Required]
         public string Position { get; set; } = null!;
- 
+    }
+}

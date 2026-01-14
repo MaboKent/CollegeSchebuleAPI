@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\VS stud work\\CollegeSchebule\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\collegeschebule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:collegeschebule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -57,8 +61,59 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:05:46.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Models\\Teacher.cs*",
+              "RelativeToolTip": "Models\\Teacher.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vxQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:57:22.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Building.cs",
+              "RelativeDocumentMoniker": "Models\\Building.cs",
+              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Models\\Building.cs*",
+              "RelativeToolTip": "Models\\Building.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:54:25.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StudentGroup.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\StudentGroup.cs",
               "RelativeDocumentMoniker": "Models\\StudentGroup.cs",
@@ -71,20 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "Models\\Teacher.cs",
-              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Models\\Teacher.cs",
-              "RelativeToolTip": "Models\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T15:57:22.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "Models\\Subject.cs",
@@ -97,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Weekday.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Weekday.cs",
               "RelativeDocumentMoniker": "Models\\Weekday.cs",
@@ -110,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Schedule.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Schedule.cs",
               "RelativeDocumentMoniker": "Models\\Schedule.cs",
@@ -123,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Specialty.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Specialty.cs",
               "RelativeDocumentMoniker": "Models\\Specialty.cs",
@@ -136,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "LessonTime.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\LessonTime.cs",
               "RelativeDocumentMoniker": "Models\\LessonTime.cs",
@@ -149,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LessonGroupPart.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\LessonGroupPart.cs",
               "RelativeDocumentMoniker": "Models\\LessonGroupPart.cs",
@@ -162,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Classroom.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Classroom.cs",
               "RelativeDocumentMoniker": "Models\\Classroom.cs",
@@ -175,41 +217,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Building.cs",
-              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Building.cs",
-              "RelativeDocumentMoniker": "Models\\Building.cs",
-              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Models\\Building.cs",
-              "RelativeToolTip": "Models\\Building.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T15:54:25.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CollegeSchebule",
+              "DocumentIndex": 11,
+              "Title": "CollegeSchebule.csproj",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\CollegeSchebule.csproj",
               "RelativeDocumentMoniker": "CollegeSchebule.csproj",
-              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\CollegeSchebule.csproj",
-              "RelativeToolTip": "CollegeSchebule.csproj",
+              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\CollegeSchebule.csproj*",
+              "RelativeToolTip": "CollegeSchebule.csproj*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-14T15:52:38.367Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
