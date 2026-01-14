@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CollegeSchebule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1db8c4bdee476b6aca7dd17e5a70a724b28f29f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f097a85110c6e64fb1213b9a0d20f4d80efda30")]
 [assembly: System.Reflection.AssemblyProductAttribute("CollegeSchebule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CollegeSchebule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
