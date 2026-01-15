@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\VS stud work\\CollegeSchebule\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\dto\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:dto\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\dto\\lessonpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:dto\\lessonpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\dto\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|solutionrelative:dto\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFA63839-C34F-4314-BBA7-5301DE8D5B68}|CollegeSchebule.csproj|c:\\vs stud work\\collegeschebule\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +106,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:16:35.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:50:25.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ScheduleController.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Controllers\\ScheduleController.cs",
               "RelativeDocumentMoniker": "Controllers\\ScheduleController.cs",
@@ -115,19 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScheduleService.cs",
-              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Services\\ScheduleService.cs",
-              "RelativeDocumentMoniker": "Services\\ScheduleService.cs",
-              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Services\\ScheduleService.cs",
-              "RelativeToolTip": "Services\\ScheduleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:34:49.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ScheduleByDateDto.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\DTO\\ScheduleByDateDto.cs",
               "RelativeDocumentMoniker": "DTO\\ScheduleByDateDto.cs",
@@ -139,20 +157,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LessonDto.cs",
+              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\DTO\\LessonDto.cs",
+              "RelativeDocumentMoniker": "DTO\\LessonDto.cs",
+              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\DTO\\LessonDto.cs",
+              "RelativeToolTip": "DTO\\LessonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T16:50:25.985Z",
+              "WhenOpened": "2026-01-14T17:23:19.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleService.cs",
+              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "Services\\ScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:34:49.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IScheduleService.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Services\\IScheduleService.cs",
               "RelativeDocumentMoniker": "Services\\IScheduleService.cs",
@@ -164,19 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LessonDto.cs",
-              "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\DTO\\LessonDto.cs",
-              "RelativeDocumentMoniker": "DTO\\LessonDto.cs",
-              "ToolTip": "C:\\VS stud work\\CollegeSchebule\\DTO\\LessonDto.cs",
-              "RelativeToolTip": "DTO\\LessonDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:23:19.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "LessonPartDto.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\DTO\\LessonPartDto.cs",
               "RelativeDocumentMoniker": "DTO\\LessonPartDto.cs",
@@ -188,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -200,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
@@ -212,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Building.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Building.cs",
               "RelativeDocumentMoniker": "Models\\Building.cs",
@@ -224,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "StudentGroup.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\StudentGroup.cs",
               "RelativeDocumentMoniker": "Models\\StudentGroup.cs",
@@ -236,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "Models\\Subject.cs",
@@ -248,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Weekday.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Weekday.cs",
               "RelativeDocumentMoniker": "Models\\Weekday.cs",
@@ -260,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Schedule.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Schedule.cs",
               "RelativeDocumentMoniker": "Models\\Schedule.cs",
@@ -272,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Specialty.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Specialty.cs",
               "RelativeDocumentMoniker": "Models\\Specialty.cs",
@@ -284,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LessonTime.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\LessonTime.cs",
               "RelativeDocumentMoniker": "Models\\LessonTime.cs",
@@ -296,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "LessonGroupPart.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\LessonGroupPart.cs",
               "RelativeDocumentMoniker": "Models\\LessonGroupPart.cs",
@@ -308,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Classroom.cs",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\Models\\Classroom.cs",
               "RelativeDocumentMoniker": "Models\\Classroom.cs",
@@ -320,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "CollegeSchebule.csproj",
               "DocumentMoniker": "C:\\VS stud work\\CollegeSchebule\\CollegeSchebule.csproj",
               "RelativeDocumentMoniker": "CollegeSchebule.csproj",

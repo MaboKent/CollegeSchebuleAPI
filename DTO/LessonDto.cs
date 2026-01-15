@@ -1,4 +1,4 @@
-﻿using CollegeSchebule.DTO;
+﻿
 using CollegeSchedule.Models;
 namespace CollegeSchedule.DTO
 {
